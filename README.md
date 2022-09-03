@@ -2,7 +2,17 @@
 Link to data-
 https://www.kaggle.com/code/hugoperez123/predicting-fraud-in-financial-payment-services/data
 
+Problem Formulation
+Due to the private nature of financial data, there is a lack of publicly available datasets that can be used for analysis. In this project, a synthetic dataset, publicly available on Kaggle, generated using a simulator called PaySim is used. The dataset was generated using aggregated metrics from the private dataset of a multinational mobile financial services company.
 
+There are 6362620 instances of data set, The data set has 11 attributes which include is
+
+Type of transactions
+Amount transacted
+Customer ID and Recipient ID
+Old and New balance of Customer and Recipient
+Time step of the transaction
+Whether the transaction was fraudulent or not
 
 
 
